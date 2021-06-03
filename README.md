@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsPluffy
 - 👀 I’m interested in ... coding and playing fivem
 - 🌱 I’m currently learning ... lua and basic setting up fivem servers
-- 💞️ I’m looking to collaborate on ... lua and fivem
+- 💞️ Fun Fact  ... I mostly listen to music while i code
 - 📫 How to reach me ... my discord Pluffy#6078
 
 <!---
